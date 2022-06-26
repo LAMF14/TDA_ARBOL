@@ -37,7 +37,7 @@ public class PRUEBA_TDA_ARBOL {
         personas.ORD_POS(personas.RAIZ());
         System.out.println("\n+++++++++++++++++++++++++++RECORRIDO EN ORDEN SIMETRICO+++++++++++++++++++++++++++++++");
         personas.ORD_SIM(personas.RAIZ());
-        System.out.println("\n\n=====================FINAL DE LAS PRUEBAS=====================\n\n\n");
+        System.out.println("\n\n=====================FINAL DE LAS PRUEBAS=====================\n\n");
 
         System.out.println("el arbol personas tiene " + personas.Niveles(personas.RAIZ()) + " Niveles.");
 
